@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+
 
 ![Views](https://komarev.com/ghpvc/?username=dinarsanjaya)
 [![Twitter](https://img.shields.io/twitter/follow/verry__d)](https://twitter.com/psyduckxnx)
