@@ -1,8 +1,7 @@
 ![Metrics](/github-metrics.svg)
 
-![Views](https://komarev.com/ghpvc/?username=vsec7)
-[![Twitter](https://img.shields.io/twitter/follow/verry__d)](https://twitter.com/verry__d)
-[![Paypal](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/viloid)
+![Views](https://komarev.com/ghpvc/?username=dinarsanjaya)
+[![Twitter](https://img.shields.io/twitter/follow/verry__d)](https://twitter.com/psyduckxnx)
 
 <br>
 
@@ -23,7 +22,7 @@ func main() {
     Job: "Backend Dev and Bug Bounty Hunter",
     Code: "Python, PHP, Javascript, and Go",
     Skill: "Web and Mobile Hacking",
-    Twitter: "https://twitter.com/verry__d"
+    Twitter: "https://twitter.com/psyduckxnx"
   }
   _ = me
 }
