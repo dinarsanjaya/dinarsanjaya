@@ -1,7 +1,7 @@
 
 
 ![Views](https://komarev.com/ghpvc/?username=dinarsanjaya)
-[![Twitter](https://img.shields.io/twitter/follow/verry__d)](https://twitter.com/psyduckxnx)
+[![Twitter](https://img.shields.io/twitter/follow/psyduckxnx)](https://twitter.com/psyduckxnx)
 
 <br>
 
@@ -19,9 +19,6 @@ type Me struct{
 
 func main() {
   me := &Me{
-    Job: "Backend Dev and Bug Bounty Hunter",
-    Code: "Python, PHP, Javascript, and Go",
-    Skill: "Web and Mobile Hacking",
     Twitter: "https://twitter.com/psyduckxnx"
   }
   _ = me
