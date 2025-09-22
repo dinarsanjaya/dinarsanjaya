@@ -97,9 +97,9 @@ const dinar = {
 
 <div align="center">
 
-## 🔥 Contribution Streak
+## ⚡ Activity Graph
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinarsanjaya&theme=tokyonight&hide_border=true)](https://github.com/dinarsanjaya)
+[![Dinar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinarsanjaya&theme=tokyo-night&hide_border=true)](https://github.com/dinarsanjaya)
 
 </div>
 
