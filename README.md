@@ -99,7 +99,7 @@ const dinar = {
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dinarsanjaya&theme=tokyonight&hide_border=true)](https://github.com/dinarsanjaya)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinarsanjaya&theme=tokyonight&hide_border=true)](https://github.com/dinarsanjaya)
 
 </div>
 
