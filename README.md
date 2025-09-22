@@ -99,7 +99,7 @@ const dinar = {
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dinarsanjaya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dinarsanjaya&theme=tokyonight&hide_border=true)](https://github.com/dinarsanjaya)
 
 </div>
 
@@ -109,10 +109,18 @@ const dinar = {
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/psyduckxnx)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/dinarsanjayaa)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dinarsanjaya)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/psyduck__)
+<a href="https://twitter.com/psyduckxnx" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://fb.com/dinarsanjayaa" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://instagram.com/dinarsanjaya" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://discord.gg/psyduck__" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 
 </div>
 
@@ -122,10 +130,17 @@ const dinar = {
 
 ## 💫 Fun Zone
 
-<img src="https://github.com/dinarsanjaya/dinarsanjaya/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+*Note: The snake animation above shows how your contributions form a snake that eats the green squares!*
 
 ### 🎵 Currently Vibing To
-[![Spotify](https://novatorem-dinarsanjaya.vercel.app/api/spotify)](https://open.spotify.com/user/dinarsanjaya)
+
+<a href="https://open.spotify.com/user/dinarsanjaya" target="_blank">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</a>
+
+*Connect your Spotify to show what you're currently listening to!*
 
 ---
 
